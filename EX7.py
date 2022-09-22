@@ -19,12 +19,3 @@ end12 = "r."
 # watch that comma at the end. try removing it to see what happens
 print(end01 + end02 + end03 + end04 + end05 + end06, end=' ')
 print(end07 + end08 + end09 + end10 + end11 + end12)
-
-print("How old are you?")
-age = input()
-print("How tall are you?",)
-height = input()
-print("How much do you weigh?",)
-weight = input()
-
-print(f"So, you're {age} old, {height} tall and {weight} heavy.")
