@@ -7,6 +7,6 @@ I added some comments to explain what is happening in the .py files.**
 
 [cover]: https://images-na.ssl-images-amazon.com/images/I/81TqHyU118L.jpg "Book Cover"
 
-![alt text][escape_sequences]
+![alt escape_sequences][escape_sequences]
 
 [escape_sequences]: C:\Users\archs\OneDrive\Pictures\Screenshots\Screenshot(172).png "Escape Sequences"
