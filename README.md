@@ -9,4 +9,4 @@ I added some comments to explain what is happening in the .py files.**
 
 ![escape_sequences][escape_sequences]
 
-[escape_sequences]: escape_sequences.png "Escape Sequences"
+[escape_sequences]: _images/escape_sequences.png "Escape Sequences"
