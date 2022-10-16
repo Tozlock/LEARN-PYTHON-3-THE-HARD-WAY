@@ -10,3 +10,7 @@ I added some comments to explain what is happening in the .py files.**
 ![escape_sequences][escape_sequences]
 
 [escape_sequences]: _images/escape_sequences.png "Escape Sequences"
+
+![Truth_tables][truth_tables]
+
+[truth_tables]: _images/EX27_TruthTables.png "The Truth Tables"
