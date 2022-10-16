@@ -1,5 +1,7 @@
 
 # Take a Test!
+# the test URl = https://learnpythonthehardway.org/python3/exercise26.txt
+
 from sys import argv
 
 print("How old are you?", end=' ')
