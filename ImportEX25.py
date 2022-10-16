@@ -1,4 +1,6 @@
 import EX25 as ex25
+# from EX25 import *
+
 sentence = "hello, all good things come to those who wait."
 words = ex25.break_words(sentence)
 
@@ -46,3 +48,7 @@ print()
 
 print("The first and last sorted words:")
 ex25.print_first_last_sorted(sentence)
+print()
+print(help(ex25))
+print()
+print(help(ex25.break_words))
